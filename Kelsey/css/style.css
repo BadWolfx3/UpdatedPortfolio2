@@ -88,7 +88,7 @@ img {
 	position: relative;
 	right: 0;
 	width: 85px;
-  background: #F5AE51;
+  background: #eaacd5;
     margin-bottom: 30px;
 }
 .line:after,.line:before {
@@ -198,7 +198,7 @@ img {
     text-align: center;
 }
 .banner-left h1 {
-	color: #F5AE51;
+	color: #eaacd5;
 	font-size: 50px;
 	font-weight: 200;
 	margin: 0;
@@ -228,7 +228,7 @@ img {
 .about-text-left h2 {
     font-weight: 700;
     font-size: 36px;
-    color: #F5AE51;
+    color: #eaacd5;
     line-height: 1;
     margin-bottom: 5px;
 }
@@ -252,7 +252,7 @@ img {
 	color: #000;
 	font-size: 14px;
 	text-transform: uppercase;
-	background: #F5AE51;
+	background: #eaacd5;
 	padding: 15px;
 	text-decoration: none;
 }
@@ -341,7 +341,7 @@ img {
 }
 
 .service-icon span i {
-	color: #F5AE51;
+	color: #eaacd5;
 }
 .service-icon span img {
     max-height: 100%;
@@ -482,8 +482,8 @@ ul.port-nav-list li a {
 
 ul.port-nav-list li a.active {
 	color: #000;
-	border-color: #F5AE51;
-	background: #F5AE51;
+	border-color: #eaacd5;
+	background: #eaacd5;
 }
 
 ul.port-nav-list li:hover a.active { 
@@ -535,7 +535,7 @@ ul.port-nav-list li:hover a.active {
 	padding: 30px;
 	color: #000;
 	border-radius: 5px;
-	background: #F5AE51;
+	background: #eaacd5;
 	box-shadow: 5px 5px 5px 0 rgba(23, 23, 25, .3);
 }
 
@@ -676,7 +676,7 @@ ul.port-nav-list li:hover a.active {
 	margin-top: 50px;
 }
 .single_info_text h3 {
-	color: #F5AE51;
+	color: #eaacd5;
 	margin: 0 0 10px;
 	text-transform: capitalize;
 	font-weight: 100;
@@ -719,14 +719,14 @@ ul.port-nav-list li:hover a.active {
 }
 
 .form-control:focus {
-    border-color: #F5AE51 !important;
+    border-color: #eaacd5 !important;
     outline: 0;
     -webkit-box-shadow: none;
     box-shadow: none;
 }
 
 form .btn.btn-lg {
-    background: #E67E22;
+    background: #eaacd5;
     color: #fff;
     border-radius: 0;
     display: inline-block;
@@ -734,7 +734,7 @@ form .btn.btn-lg {
 }
 
 #contact-form .btn.btn-send {
-	background: #F5AE51;
+	background: #eaacd5;
 	color: #000;
 	border-radius: 0;
 	padding: 10px 15px;
@@ -760,7 +760,7 @@ form .btn.btn-lg {
     color: #ccc;
 }
 .copyright a{
-    color: #F5AE51;
+    color: #eaacd5;
 }
 
 
