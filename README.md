@@ -13,8 +13,8 @@ Using a HTML template I made an updated portfolio. It includes projects I have w
 * Canva
 
 ## Deployed Application
--
+- https://badwolfx3.github.io/UpdatedPortfolio2/
 
 ## Screenshots
-![First Screenshot](/Assets/Images/UDP1.png)
-![Second Screenshot](/Assets/Images/UDP2.png)
+![First Screenshot](/Kelsey/images/about/UDP1.png)
+![Second Screenshot](/Kelsey/images/about/UDP2.png)
